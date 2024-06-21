@@ -1,0 +1,36 @@
+body {
+    background-image: url(); /* Ruta de tu imagen de fondo */
+    background-size: cover; /* Ajusta la imagen para cubrir toda el área */
+    background-repeat: no-repeat; /* Evita que se repita la imagen */
+}
+.imgs{
+    height: auto;
+}
+    
+#myButtonlogin{
+    position:relative;
+    background-color: white;
+    color: black;
+    border: 2px;
+    border-radius: 7px;
+    padding: 4px;
+    font-size:15px;
+
+}
+#blackmerch{
+    font-weight: 2px;
+    width: 20px;
+    height: 60px;
+    font-size: 30px;
+
+}
+#inicio{
+    border-radius: 50px;
+    width:100px;
+    left: 50%;
+    position:unset;
+
+}
+/*<li class="nav-item">
+<a class="nav-link " href="#"  aria-disabled="true">home</a>
+</li>*\
